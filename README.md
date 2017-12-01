@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+12/1/2017
 
 ### Student Name:  
-(First and Last Name)
+Chuck Phillips
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+See how AJAX is used in sending/receiving data to pull movie information from The Movie Database.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://phillips001.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. AJAX interactive requests
+2. Use of the TMDB API, and API's in general
+3. Use of the Network views in Development Tools area
